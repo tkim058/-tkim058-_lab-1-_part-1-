@@ -1,9 +1,13 @@
 /*
  * [tkim058]_lab[1]_part[1].c
- *
- * Created: 7/30/2018 1:21:24 PM
- * Author : ucrcse
- */ 
+ *	Partner(s) Name & E-mail: No partner yet
+ *	Lab Section: B01
+ *	Assignment: Lab #1  Exercise #1
+ *	Exercise Description: [Return 1 if PA1PA0 is 01 else return 0 on PB0]
+ *	
+ *	I acknowledge all content contained herein, excluding template or example
+ *	code, is my own original work.
+ */
 
 #include <avr/io.h>
 
